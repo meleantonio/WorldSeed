@@ -13,6 +13,6 @@
     ]
   },
   "devDependencies": {
-    "openclaw": "^2026.3.13"
+    "openclaw": "^2026.6.6"
   }
 }
